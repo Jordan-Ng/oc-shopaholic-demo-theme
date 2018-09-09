@@ -15,14 +15,15 @@
             <directory>./../accessoriesshopaholic/tests/unit</directory>
             <directory>./../buddies/tests/unit</directory>
             <directory>./../compareshopaholic/tests/unit</directory>
+            <directory>./../discountsshopaholic/tests/unit</directory>
             <directory>./../filtershopaholic/tests/unit</directory>
+            <directory>./../mighty/tests/unit</directory>
             <directory>./../ordersshopaholic/tests/unit</directory>
             <directory>./../popularityshopaholic/tests/unit</directory>
             <directory>./../propertiesshopaholic/tests/unit</directory>
             <directory>./../relatedproductsshopaholic/tests/unit</directory>
             <directory>./../reviewsshopaholic/tests/unit</directory>
             <directory>./../searchshopaholic/tests/unit</directory>
-            <directory>./../seotoolbox/tests/unit</directory>
             <directory>./../tagsshopaholic/tests/unit</directory>
             <directory>./../shopaholic/tests/unit</directory>
             <directory>./../toolbox/tests/unit</directory>
