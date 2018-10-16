@@ -59,7 +59,8 @@
         "omnipay/stripe": "^2.4",
         "omnipay/targetpay": "^2.2",
         "omnipay/worldpay": "^2.2",
-        "collizo4sky/omnipay-2checkout": "^1.4"
+        "collizo4sky/omnipay-2checkout": "^1.4",
+        "yandexmoney/omnipay": "^1.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.7",
